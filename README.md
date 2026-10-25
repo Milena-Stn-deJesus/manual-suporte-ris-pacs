@@ -3,11 +3,10 @@
 Portfólio em que documento, passo a passo, como dar suporte e testar sistemas de imagem médica (RIS e PACS) usando um ambiente totalmente simulado.
 
 ## Quem sou
-Sou técnica em radiologia e estudante de Análise e Desenvolvimento de Sistemas.
-Estou migrando da área assistencial para a tecnologia em saúde, e este repositório registra o que aprendo nessa transição.
+Atuo como Técnica em Radiologia há 5 anos, e sou estudante do curso de ADS, pela Faculdade de Ciências Médicas da Santa Casa de São Paulo, em transição de carreira na Tecnologia em saúde.
 
 ## Objetivo
-Mostrar, com exemplos práticos, que sei investigar problemas, registrar chamados, escrever testes e explicar falhas técnicas para equipes clínicas e de TI.
+Demonstrar de forma prática, com exemplos práticos, que sei investigar problemas, registrar chamados, escrever testes e explicar falhas técnicas para equipes clínicas e de TI.
 Meu foco é atuar com suporte e aplicações clínicas de PACS/RIS.
 
 ## Aviso
