@@ -6,7 +6,7 @@ Portfólio em que documento, passo a passo, como dar suporte e testar sistemas d
 Atuo como Técnica em Radiologia há 5 anos e sou estudante do curso de ADS, pela Faculdade de Ciências Médicas da Santa Casa de São Paulo, em transição de carreira na Tecnologia em saúde.
 
 ## Objetivo
-Demonstrar de forma prática, com exemplos práticos, estou aprendendo a investigar problemas, registrar chamados, escrever testes e explicar falhas técnicas para equipes clínicas e de TI.
+Demonstrar de forma prática, com exemplos práticos, que estou obtendo conhecimento teórico e desenvolvendo as habilidades necessárias para a investigar problemas, registrar chamados, escrever testes e explicar falhas técnicas para equipes clínicas e de TI.
 Meu foco é atuar com suporte e aplicações clínicas de PACS/RIS.
 
 ## Aviso
