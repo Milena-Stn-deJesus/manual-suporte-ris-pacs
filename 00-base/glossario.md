@@ -12,13 +12,13 @@ Sistema de informação da radiologia que faz a gestão do setor de imagem. Cont
 Sistema de informação Hospitalar que gerencia as informações de todos os pacientes do hospital, como prontuário, cirurgia, faturamento, cadastro do paciente, internação e agenda geral.
 
 ### Worklist
-Lista de exames pendentes no setor de imagem, que vai do sistema ao aparelho. Assim que o paciente chega na unidade, e realiza a abertura de ficha, o cadastro dele já aparece no aparelho, sem a necessidade de digitá-los manualmente. O que reduz a possibilidade de erro humano, por digitar os dados de forma errada.
+Lista de exames pendentes no setor de imagem, que vai do sistema ao aparelho. Assim que o paciente chega na unidade, e a recepção realiza a abertura da ficha, o cadastro dele já aparece no aparelho, sem a necessidade de digitá-lo manualmente. O que reduz a possibilidade de erro humano, por digitar os dados de forma incorreta.
 
 ### Laudo (Radiology Report)
-Registro realizado pelo médico especialista para descrever os achados nas imagens e elaborar uma conclusão diagnóstica afim de apoiar o médico solicitante a definir a melhor conduta posteriormente;
+Registro realizado pelo médico especialista para descrever os achados nas imagens e elaborar uma conclusão diagnóstica afim de apoiar o médico solicitante a definir a melhor conduta;
 
 ### Modalidade (Modality)
-Método ou equipamento utilizado para realizar o exame de imagem. Por exemplo, Raio-X , Mamografia, Tomografia Computadorizada, USG, e etc.
+Método ou equipamento utilizado para realizar o exame de imagem. Por exemplo, Raio-X , Mamografia, Tomografia Computadorizada, Ultrassonografia, e etc.
 
 
 
