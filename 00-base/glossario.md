@@ -1,1 +1,6 @@
-##Glossário
+# Glossário
+
+## Termos 
+
+### PACS 
+
