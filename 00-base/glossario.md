@@ -20,6 +20,18 @@ Registro realizado pelo médico especialista para descrever os achados nas image
 ### Modalidade (Modality)
 Método ou equipamento utilizado para realizar o exame de imagem. Por exemplo, Raio-X , Mamografia, Tomografia Computadorizada, Ultrassonografia, e etc.
 
+### DICOM (Digital Imaging and Communications in Medicine)
+Padrão que define o formato em que as imagens são exportadas, quais dados as acompanham e como são enviados, e que confirma o recebimento (ou não) das imagens no PACS. Essa padronização vale para todas as modalidades do setor de radiologia, independentemente da marca do aparelho. Assim, imagens de modalidades diferentes chegam ao PACS de forma padronizada e ficam reunidas no mesmo sistema.
+
+### AE Title (Application Entity Title)
+Nome que identifica cada equipamento ou sistema na comunicação DICOM, como o aparelho e o PACS. Ele é informado quando o aparelho abre a conexão para enviar as imagens, e os dois lados precisam se reconhecer: cada um cadastra o AE Title do outro. Se o nome não for reconhecido, o PACS recusa o envio.
+
+### HL7 (Health Level Seven)
+Padrão que define o formato em que as informações de saúde, como cadastro do paciente, pedido de exame, status e resultado, são trocadas entre os diferentes sistemas do hospital. Assim, sistemas como o HIS e o RIS conseguem se comunicar, mesmo sendo de fabricantes diferentes. Enquanto o DICOM padroniza as imagens, o HL7 padroniza as informações que trafegam entre os sistemas.
+
+### VNA (Vendor Neutral Archive)
+Sistema de arquivo em que as imagens são guardadas no formato padrão DICOM, o que o torna neutro: o PACS de qualquer fabricante consegue acessá-las. Assim, se o hospital trocar de sistema PACS, continua com acesso a todos os exames anteriores.
+
 
 
 
